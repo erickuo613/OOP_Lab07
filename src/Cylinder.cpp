@@ -7,6 +7,7 @@
 #include <cmath>
 using namespace std;
 
+bool cooked = true;
 
 double pi = M_PI;
 
